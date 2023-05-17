@@ -14,7 +14,7 @@ a.BackgroundColor3 = Color3.new(1, 1, 1)
 
 a.BackgroundTransparency = 1
 
-a.Parent = screenGui
+a.Parent = no
 
 local uh = Instance.new("TextLabel")
 
